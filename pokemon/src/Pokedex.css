@@ -3,3 +3,11 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+.Pokedex-winner {
+  color: #48af48;
+}
+
+.Pokedex-loser {
+  color: red;
+}
